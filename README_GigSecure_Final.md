@@ -495,10 +495,7 @@ Week 5–6 │ PAYMENTS & UI
 | Resource | Link |
 |---|---|
 | 🖥️ Live Demo | *(link to be added)* |
-| 📦 GitHub Repo | *(link to be added)* |
 | 🎥 Demo Video | *(link to be added)* |
-| 📊 API Docs | `/docs` — FastAPI Swagger UI (available on live backend) |
-
 ---
 
 ## 👥 Team Iron Stack
