@@ -2,12 +2,6 @@
 ### AI-Powered Parametric Income Protection for Gig Workers
 ### 🚀 Guidewire DEVTrails 2026 | Team Iron Stack
 
-![Status](https://img.shields.io/badge/Status-Prototype-blue)
-![Stack](https://img.shields.io/badge/Stack-FastAPI%20%7C%20PostgreSQL%20%7C%20ML%20%7C%20JavaScript-green)
-![License](https://img.shields.io/badge/License-MIT-yellow)
-![Event](https://img.shields.io/badge/Hackathon-Guidewire%20DEVTrails%202026-orange)
-
----
 
 > **"Auto-triggered weekly micro-insurance that protects gig workers instantly when disruptions stop their income — zero paperwork, zero waiting, zero friction."**
 
@@ -180,6 +174,9 @@ Premium = Base_Rate × Zone_Risk_Index × (1 + Claim_History_Factor) × NCR_Disc
 
 > Maximum **1 payout per event type per week** to prevent abuse. Events must be non-overlapping within a 24-hour window.
 
+> Maximum **payout** changes for different plans.
+
+> Price of plans may be change or payout amount may change in forther updates.
 ---
 
 ## 📉 Loss Ratio Analysis
@@ -225,6 +222,8 @@ A healthy insurance loss ratio is **50–75%**. GigSecure targets this range acr
 - 💸 Premium discounts
 - 🎁 Partner vouchers (grocery, fuel)
 - 📦 Free plan upgrades for 1 week
+
+> This rewards may change in further updates.
 
 > Points expire after 6 months of inactivity to encourage continued enrollment.
 
@@ -504,13 +503,13 @@ Week 5–6 │ PAYMENTS & UI
 
 ## 👥 Team Iron Stack
 
-| Name | Role |
-|---|---|
-| **Abishek M** | Backend Lead — FastAPI, PostgreSQL, API integrations |
-| **Anish M** | ML Engineer — XGBoost, LightGBM, Isolation Forest models |
-| **Jegajith J K** | Frontend Developer — Worker PWA, admin dashboard |
-| **J Madhan Kumaar** | DevOps & Architecture — System design, deployment |
-| **Pratheep S** | Product & Actuarial — Premium modeling, loss ratio, IMD/NDMA data analysis |
+| Name |
+|---|
+| **Abishek M** |
+| **Anish M** | 
+| **Jegajith J K** |
+| **J Madhan Kumaar** |
+| **Pratheep S** |
 
 ---
 
